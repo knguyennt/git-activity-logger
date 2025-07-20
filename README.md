@@ -8,3 +8,4 @@
 | 2025-07-20 14:33 UTC | knguyennt/test-history-log-project | [680d0fd](https://github.com/knguyennt/test-history-log-project/commit/680d0fd01d457bb17ace1297805fbe9ca7b7b824) | chore: remove redundant value |
 | 2025-07-20 14:40 UTC | knguyennt/test-history-log-project | [5f7a623](https://github.com/knguyennt/test-history-log-project/commit/5f7a6238d6839c89b2127b2f948702001aeb54ad) | chore: test get config from vault |
 | 2025-07-20 16:39 UTC | knguyennt/space-bullet-dodger | [d4c2875](https://github.com/knguyennt/space-bullet-dodger/commit/d4c28759f7a3b50037b8407d9f8336d030793a6c) | Init project |
+| 2025-07-20 18:46 UTC | knguyennt/youtube-video-analysis | [ecfa94e](https://github.com/knguyennt/youtube-video-analysis/commit/ecfa94e890a9844f223c8dd0c0e4e73e69ac87eb) | feat: init project |
